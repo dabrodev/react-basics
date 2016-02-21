@@ -1,1 +1,1 @@
-# react-basics
+# React.js basics
